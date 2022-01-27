@@ -662,7 +662,7 @@
 		</Items>
 	</Variables>
 	<Parameters Key="{94819CD1-5F0B-422A-A3AF-F7356B038107}">
-		<Parameter0 Name="number1" VarType="8" IsOptional="False" DefValueType="6" DefValueValue="123" Description="First of two numbers to multiply" />
-		<Parameter1 Name="number2" VarType="8" IsOptional="False" DefValueType="6" DefValueValue="456" Description="Second of two numbers to multiply" />
+		<Parameter0 Name="number1" VarType="8" IsOptional="True" DefValueType="6" DefValueValue="123" Description="First of two numbers to multiply" />
+		<Parameter1 Name="number2" VarType="8" IsOptional="True" DefValueType="6" DefValueValue="456" Description="Second of two numbers to multiply" />
 	</Parameters>
 </Root>
