@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{302E54A8-7D5B-4593-9563-357C2734256B}" version="1400" key="{CDFEFE0C-8EE0-482A-92CD-E20C1736F336}" typeId="{302E54A8-7D5B-4593-9563-357C2734256B}">
+	<config nodeName="ImageSet1" />
+	<testData />
+	<data>
+		<item caption="ButtonEquals" moniker="{BEF6766B-F175-4046-B5E9-5DD3FB46E8AA}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\Button1.png" initialHash="B240E1C8" selectionLeft="1703" selectionTop="890" selectionWidth="108" selectionHeight="105" initialLeft="1703" initialTop="890" initialWidth="108" initialHeight="105" pixelTolerance="0" colorTolerance="0" deviceName="Button1" />
+		</item>
+		<item caption="ButtonCopyClipboard" moniker="{0CB05F76-DDBC-4145-89DE-547050DE0AD7}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\ButtonCopyClipboard.png" initialHash="6470CC00" selectionLeft="705" selectionTop="251" selectionWidth="44" selectionHeight="49" initialLeft="705" initialTop="251" initialWidth="44" initialHeight="49" pixelTolerance="0" colorTolerance="0" deviceName="Button to copy Calc result to the clipboard" />
+		</item>
+	</data>
+</Root>

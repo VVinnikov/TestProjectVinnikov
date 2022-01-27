@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{B9D9273E-7266-43E0-BF02-97F168593604}" version="15.0">
+	<TestData Description="" Key="{B3AACFCA-5D88-4C62-88D7-0CEC540CF87C}" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
+		<Data>
+			<Extenders>
+				<NodeBitmaps>
+					<Bitmap Name="Aliases.ApplicationFrameHost" Data="61717A697000000001000000360400007801BD914D4B024118C7FF411FA08FD0B12F90272F76F05641511B24D10B09BDB89A118250414865A5951525451DB6172B3CB410BA84A0D145B0D8100C2AC94B084694E0C1DBB633B6B65AE921688667E6199EF93DFFE799696AD6D4820E8DBC36C856F76935A8973D797CC60B87C22AA1F2E45F24102353ED57A6BEEECF19BAB1D4C550767D73151B6DEDC57CEA1C46A3116A53B4165A5B70D66F8445ABA52CD9955839CFF33C0441A0F12DA603D37A3DC2EC302EFA7A703E68C0BDC58CAB81012C9A86606AD494D441B4D5FCE3DC2CC2133690DDD9C9C0C51D8077CE53FE4C3E1353DE85D4A1E62391088DC56536B5ECC2984E078F780B6FF812D72CFB8D2DE749DEE48A1BCFFB8778F7F97032C2C2C63058E8EDC5E5A889F2D5EA7F088570E759C35B3088D7631F92CE5924266D940F5BAD0859C7ABD64FEA783A3AC1C3DE2EC49929DC4CD921982D9453F75E5E3FE93F1A8DD27BC99D6DC44F7DD427BCA24BDEEBB7FF537851148B5AE974BAE84B52E1BDD5BCDD6E87C3E180DBED86D7EB05C771F0FBFD08040220F962B11812890452A91432990C72B95C893EE149BC129FCD66299FCFE77FE4FFA2AFEEE53FFD0F0C13FF0C" />
+					<Bitmap Name="Aliases.ApplicationFrameHost.wndApplicationFrameWindow" Data="61717A697000000001000000360400007801C591CD4B024118C69FA03FA03FA163C7E8E0A14BD42528A2637436BC4404753028A420F42044501991111925E42582923A4474F250418720A8285A5357F37B77DD8F59B7D955635D45EAE40CCF30C3F0FCE699F71D1AB375C21836BAF6507555D5816EBAA3A37A5F3954560DED9FE1C006A6466CFF9239B5EE57B81C94620672210D39978294652165E290D2319412EF109867706F8FE05E1E8C77AC7E22145A32C4148352EC15FCC753737F89430323FF4DB324698E8491A3C6D0FF6A7D5F1579902A83F0799A250B45FF4B1386D57F75E4832A8B50250144E70845B46258FD37213FCA44FE1B83D6D5EA8F9C1DA2AC92168CFADE58FD771741689AD6C030D7C4DC5FAB3F79E2852E36E801BBBF88F8F62C626B767CB927C0B846C13807F139DFFFAB88BDB7AEFEBA57BB0D40BDF6835CFAA09CAF433EF5420AAD420CBA200416C0EFCD81DF994671CB817B475F83BF962179EC067BB08CC4AE13F1CD994A0ECF24A22BE3882E0DD32C03460E73FFDBB9FF01EBA33263" />
+					<Bitmap Name="Aliases.notepad" Data="61717A697000000001000000360900007801D5556B5093571A261741116F53C4D2AD4B5B75D475B7DA4A29747467A0F6A2D2AAB5DB768A88375404D18A148196A00824802622207213C2452E954BA25CC22D014312424820921012420801028A2C63D7D5DD6D9F3DA175A6EDD4B63BB37F7A669EEF3DE7BCDF3CCF792FE7FB7CDEF39867373B3CC8730DC1B3DF8362F7029991F1BDFFBBC5EFE3397FFEFC55CECECEBBE6CCA1AFFB7F9CD8C1C161A98B8B8B8FB7B7775C6C2CA345D0C09FBE3B6142763667FAA597FE184B3416FE2F3A743A7D919393D3AB5B7CDE8C3C71F2B3EA9222EED0A8598FC9311D2646D4B00C75C1A49743266D4569711AB6F86C6A20FCCB09E63C4D8746A33DF386A7E7BE13C74373AF65676A47865430F50B30D85B00F56D06BA9A62316254C23CD805E3800483DA36A87B64282EB80426F38B7F2D5BBF59EEBC766305E15FF4430D2A9542739C67BF38F372A2C4A413C0A0CA437F67123A1B42D0C1DF8FDB357B21BCE18786920FD12B2BC2F88886682860D489A1D7CA505E92810B17CE626D403456F97D3E6D47A1AE5EB4D0D1F9AF6FACDE7938C02B2E25765B4549C60E212FFF3DA3F45620C435011055FAA3A5620F1AAE7F8ADAE28F71ABE813DC2CFC1B44BCCF316AEA21F921B1E9251819BE835AFE75A45F8AC3EA0F43E1BA23C86047A52D66C7F9F278795B8D851C2F552AE34FED8CD0E7F951475DAB6B8B3F79D458B6170DA5FE047B21280B4063F97E34551C20D847F6FCA0EDAE84D5D28F61BD14232457E27601F2B392B176E7112CF6F6BB6347A53BEEFB68D53946884BED31BF25D70E7FBC30F7E06EA7AC4FB7DBB37392BC0D22DE7108AB8F404420AC3E0A614D104435C7D0561302615510C4F531B09AFB481CDDB018E55076B5A1AC30151B760762AEE72E15C98FFDD2671C9707EF71CDDDB76B7EFA81DD4B2E077EE49CBE67C71216337263B34C1005495D383AEA4E1384917918B1A720AE3D35BB6EE387A25F558389512DC64C0A0C6815A82ECF848FFF51D0D66F9393DA526CF5DDB2D96D4FD82137EE513FB7D4E080956987FD56A4304EBD56A6142540298C83A2F52CBA5A62D1D51C037973343A1B2309CE4026388DCE1616C6867BC9F965181E52A381C7C5EE23A1B05BF796F449EFCC75A03B9D0C744F8D08DE981D7ECCE34A78F0EB19D12737E7CA5B131FF649395077A4A057CC82AA2D1EDDC273B350B4903E255A1D2416439F0093963E5847FBD1DA5006FFD0B01FF1DB74BCDC97FB721276F1CE46BC9B7F3ECA971B1BB12D4F541B6FD57567432BCF409F2C1577A4177147C2265A29508ACE43D1F2253A05E1E86A4DC2B8B997DC390D6E3757E2605838282FBF237E727E9BA5D328F6519FF9A667A71EA94B65EDBF71317E6FA9A82ED96CE82D865E954F708D808B01651E3444AB479C48346CB13020A98F80415D8F29AB0E5D1D75088E8C027DC356E10FF96DF335AB967A545D3F2729CA896CCC4D0FE3B70BD28CC3DA2A98B49518D6F161D2DC80DEC6DF99060DC95B9F944D7297446AC44077DB25DC1DEF87462942F09928D05E7E5BF0537EDB3AECB86F4A7B73415F4531B3A5BD29573F6E6AC5E488186343CD84FF2BE87B0A61E8E112CB85AE2B9BE42C156A31B9E38DD1A44F25A4CE6A84444581BAEE4DDECFF12F7359E026169668DA5B4A7B549D374DF7AD3D983477C0A2AFC788BE16A3C626580CF544AB7256A75F7175360EA53096D4250D13660D4EC5304059B3A9F4E7F86D7B4107B7C6CC4C8F3E1CD4C9AC53E32ADCB548083A716FAC9BC42225BDDE4AF4EA66E331F4147C578FF60474933E1E1D94233A9105CACAD7739EC6BF7081BDB35C724B671DD3CFDC9FD07C3B33A5C7CCD420A6EF6A718FE859CD62C2D304B38E87417511F4DD99D0C9D9D04AC977B5BF0A31C99C6F292FBE7AF169FCB6FDAD5BFEECFFCD7F1EE1E18309FCF36B2BC138C1281EFDC38CC75F0FE2E1B41AF74785B00C909A2873A010254350190145533C98EC44505ED8C0FC257E2AD58ECEAFCABE0D321E3F7E8099BF4FE0DEA411430332D28337D1742B0F35E5A928E3B2505EC84249411272AEC4819BC7FCF7892FCF0C5196B8BEFD4BFC369FE746B7B7F45AE537B5FC527C55968B8A922BB896CB4656161B9C4B09B89AC94151FE5564E55C7E9C95973195CC610E079E0CAA5AFC9CEB5F7E8DDBE6B7FD6F9239F1D5E939EC0757732E3F625D386F615D4C509F67C675847F71BAFA40C8A10BEF7EB0FD9087A7FBFB2BD6AC745FF687675F9CE7E4B8E0B7703F7967BDFB2B9E1FEC7CFFA0D726AFEDCFB93DBFC261AE8323954AA53DF1FF9AFD2F20282138" />
+					<Bitmap Name="Aliases.notepad.dlg_" Data="61717A697000000001000000360400007801C591CD4B024118C69FA03FA03FA163C7E8E0A14BD42528A2637436BC4404753028A420F42044501991111925E42582923A4474F250418720A8285A5357F37B77DD8F59B7D955635D45EAE40CCF30C3F0FCE699F71D1AB375C21836BAF6507555D5816EBAA3A37A5F3954560DED9FE1C006A6466CFF9239B5EE57B81C94620672210D39978294652165E290D2319412EF109867706F8FE05E1E8C77AC7E22145A32C4148352EC15FCC753737F89430323FF4DB324698E8491A3C6D0FF6A7D5F1579902A83F0799A250B45FF4B1386D57F75E4832A8B50250144E70845B46258FD37213FCA44FE1B83D6D5EA8F9C1DA2AC92168CFADE58FD771741689AD6C030D7C4DC5FAB3F79E2852E36E801BBBF88F8F62C626B767CB927C0B846C13807F139DFFFAB88BDB7AEFEBA57BB0D40BDF6835CFAA09CAF433EF5420AAD420CBA200416C0EFCD81DF994671CB817B475F83BF962179EC067BB08CC4AE13F1CD994A0ECF24A22BE3882E0DD32C03460E73FFDBB9FF01EBA33263" />
+					<Bitmap Name="Aliases.notepad.dlg_.DUIViewWndClassName" Data="61717A697000000001000000360400007801AD924B4B02511886DFA01FD04F68D92FF007B40C82A0562D5A4910EDDAB48A0ABA407659489B6A11512B8B36454582250CD8852CB58B76C12EE6E4781967C6716E6A73460D472D233AC377CE0CC3F39C77BE39ED9D966618C3A2CF6D7AB594AA09ADFA9D3E4AEF8B0FC5B980FFBBAC1D1634AA9F76DB5BB323E0BBC495F71C671E0A94DB0597731F1BAB4B989F1E33DC8DF8D0DD0D6EAFFD350EE7C16E4DB66A17D93FFCF488C7FB508DC3ED3A3478F12D08E1C957370BE13FE8285E5F9E4D8E8BB3137828B7C148CC2BC4C8C3B73C717C57A4B772220A8979ABCB97BF87F03945822665A0893CD44C1A2A9F84928E434EC52027A38D794DA97128C4C1E90E3666E2ABFF39D95FA6C39022F7C88603C83E7821064F91B9A620F88F21F88E4CBC915716A16505687AD6F8E61CF81D3BB8AD19B0EB23482D0F2161EF47DCD60B66AA07B1892EDCDAAC5F2797F0795546AEE4601CB3486E2F20E9B021B13E0E666518B1C541D0B37DA027BB111DED40C43E60E20B39CDE42039543E05954B406119BD67B4DEFB7753EECA7E17F279543A7246EF39A8026B72905E95B9F24AF2FFB6EAF165CF5FD64FAED21512" />
+					<Bitmap Name="Aliases.notepad.dlg_.DUIViewWndClassName.Item" Data="61717A697000000001000000360400007801C553CF2B04511CFF282E4E7B92725952B86B4F4A71506ACB8F0B72707091AB127F000739C8C591831C44927651221B62955A0E8B55569476CBCEECCE8F3766DE5B6FDEEE6832AD5A92377DDEFBBEDEF733DFF97CDF673A82814A8811E0733387AF880AF879C447F1BCB029CC79FCFE19ED0EA01C8CF5B58B7CA7F265680DF93CDF9502636094809234478AC766693EA3A0FA2B2C29069A4BC048AE80DCCE418B4D40391F80763D29CEEDEF75D767D480F1B88C5CA40BD98356C8FB2DD0E3B390B67DC86C5621B30181EC7127A89AF4D467A60AF56AFC33CFCEB76B393C67FD33BE45401E96903B094239ED8172D60BE369956B1E2CE062086A745868B2FBE8D16FA9D06EA620EDD4420ED509E8F11948613FE4DD06C87B8D1C4D50A223A0DA8B97FFDFFAB927CCD421D730CDB5F7237BD40672BF00395CCF35D520B355FDEDFDB9BDC76CBF990AA8F106331D81F1BC0E925814F7A9DFCD0B1F7EED9F9B5F2A66F49DBF57056396A77FF63F500EDCF51D1FFF64FD006BDB13C2" />
+					<Bitmap Name="Aliases.notepad.dlg_.DUIViewWndClassName.Item.CtrlNotifySink" Data="61717A697000000001000000360400007801AD924B4B02511886DFA01FD04F68D92FF007B40C82A0562D5A4910EDDAB48A0ABA407659489B6A11512B8B36454582250CD8852CB58B76C12EE6E4781967C6716E6A73460D472D233AC377CE0CC3F39C77BE39ED9D966618C3A2CF6D7AB594AA09ADFA9D3E4AEF8B0FC5B980FFBBAC1D1634AA9F76DB5BB323E0BBC495F71C671E0A94DB0597731F1BAB4B989F1E33DC8DF8D0DD0D6EAFFD350EE7C16E4DB66A17D93FFCF488C7FB508DC3ED3A3478F12D08E1C957370BE13FE8285E5F9E4D8E8BB3137828B7C148CC2BC4C8C3B73C717C57A4B772220A8979ABCB97BF87F03945822665A0893CD44C1A2A9F84928E434EC52027A38D794DA97128C4C1E90E3666E2ABFF39D95FA6C39022F7C88603C83E7821064F91B9A620F88F21F88E4CBC915716A16505687AD6F8E61CF81D3BB8AD19B0EB23482D0F2161EF47DCD60B66AA07B1892EDCDAAC5F2797F0795546AEE4601CB3486E2F20E9B021B13E0E666518B1C541D0B37DA027BB111DED40C43E60E20B39CDE42039543E05954B406119BD67B4DEFB7753EECA7E17F279543A7246EF39A8026B72905E95B9F24AF2FFB6EAF165CF5FD64FAED21512" />
+					<Bitmap Name="Aliases.notepad.wndNotepad" Data="61717A697000000001000000360400007801C591CD4B024118C69FA03FA03FA163C7E8E0A14BD42528A2637436BC4404753028A420F42044501991111925E42582923A4474F250418720A8285A5357F37B77DD8F59B7D955635D45EAE40CCF30C3F0FCE699F71D1AB375C21836BAF6507555D5816EBAA3A37A5F3954560DED9FE1C006A6466CFF9239B5EE57B81C94620672210D39978294652165E290D2319412EF109867706F8FE05E1E8C77AC7E22145A32C4148352EC15FCC753737F89430323FF4DB324698E8491A3C6D0FF6A7D5F1579902A83F0799A250B45FF4B1386D57F75E4832A8B50250144E70845B46258FD37213FCA44FE1B83D6D5EA8F9C1DA2AC92168CFADE58FD771741689AD6C030D7C4DC5FAB3F79E2852E36E801BBBF88F8F62C626B767CB927C0B846C13807F139DFFFAB88BDB7AEFEBA57BB0D40BDF6835CFAA09CAF433EF5420AAD420CBA200416C0EFCD81DF994671CB817B475F83BF962179EC067BB08CC4AE13F1CD994A0ECF24A22BE3882E0DD32C03460E73FFDBB9FF01EBA33263" />
+				</NodeBitmaps>
+			</Extenders>
+		</Data>
+		<Children>
+			<Operation Type="{66F32D5F-A5DB-420E-9CB4-3DB7CADE2692}">
+				<Data Description="Runs the &quot;CalculatorUWP&quot; tested application." TestedApp="CalculatorUWP">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Count" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="IgnoreRunning" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="Timeout" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{66F32D5F-A5DB-420E-9CB4-3DB7CADE2692}">
+				<Data Description="Runs the &quot;notepad&quot; tested application." TestedApp="notepad">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Count" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="1" />
+						<Parameter Name="IgnoreRunning" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="True" />
+						<Parameter Name="Timeout" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Maximizes the &apos;%n&apos; window." Action="Maximize">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ApplicationFrameHost.wndApplicationFrameWindow;" />
+				</Data>
+			</Operation>
+			<Operation Type="{6F20B0D8-E0CF-47FF-A68B-3E3672DD0CB0}">
+				<Data Description="AssignCSS text to the variable" DescriptionEdited="True" VariableType="4" VariableName="varCSS">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="NewValue" DefVarType="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="Aliases.EditLlise_CalculatorUWP.BrowserWindow.Window(&quot;Internet Explorer_Server&quot;, &quot;&quot;, 1).Page(&quot;ms-appx://21442editllise.calculatoruwp/index.html&quot;).contentDocument.styleSheets.item(1).cssText" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{6F20B0D8-E0CF-47FF-A68B-3E3672DD0CB0}">
+				<Data Description="Assign calc height to the variable" DescriptionEdited="True" VariableType="4" VariableName="varCalcHeight">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="NewValue" DefVarType="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="Aliases.EditLlise_CalculatorUWP.BrowserWindow.Window(&quot;Internet Explorer_Server&quot;, &quot;&quot;, 1).Page(&quot;ms-appx://21442editllise.calculatoruwp/index.html&quot;).contentDocument.body.clientHeight" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{BFB3C418-1303-46B3-9B24-3624AB5EB529}">
+				<Data Description="Posts an information message to the test log." MessageType="0">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="MessageText" DefVarType="12" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="&quot;Calc height = &quot; + KeywordTests.TestCalculatorNotepad.Variables.varCalcHeight" />
+						<Parameter Name="Details" DefVarType="12" VarType="8" ValueType="6" ValueValue="" />
+						<Parameter Name="Priority" DefVarType="12" DefValueType="1" DefValueValue="300" VarType="3" ValueType="1" ValueValue="300">
+							<Values IsEnum="True">
+								<Value Type="1" Value="100" Text="pmLowest" />
+								<Value Type="1" Value="200" Text="pmLower" />
+								<Value Type="1" Value="300" Text="pmNormal" />
+								<Value Type="1" Value="400" Text="pmHigher" />
+								<Value Type="1" Value="500" Text="pmHighest" />
+							</Values>
+						</Parameter>
+						<Parameter Name="Attrib" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+						<Parameter Name="Picture" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+						<Parameter Name="FolderId" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{6F20B0D8-E0CF-47FF-A68B-3E3672DD0CB0}">
+				<Data Description="Assign calc width value to the variable" DescriptionEdited="True" VariableType="4" VariableName="varCalcWidth">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="NewValue" DefVarType="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="Aliases.EditLlise_CalculatorUWP.BrowserWindow.Window(&quot;Internet Explorer_Server&quot;, &quot;&quot;, 1).Page(&quot;ms-appx://21442editllise.calculatoruwp/index.html&quot;).contentDocument.body.clientWidth" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{BFB3C418-1303-46B3-9B24-3624AB5EB529}">
+				<Data Description="Posts an information message to the test log." MessageType="0">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="MessageText" DefVarType="12" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="&quot;Calc width = &quot; + KeywordTests.TestCalculatorNotepad.Variables.varCalcWidth" />
+						<Parameter Name="Details" DefVarType="12" VarType="8" ValueType="6" ValueValue="" />
+						<Parameter Name="Priority" DefVarType="12" DefValueType="1" DefValueValue="300" VarType="3" ValueType="1" ValueValue="300">
+							<Values IsEnum="True">
+								<Value Type="1" Value="100" Text="pmLowest" />
+								<Value Type="1" Value="200" Text="pmLower" />
+								<Value Type="1" Value="300" Text="pmNormal" />
+								<Value Type="1" Value="400" Text="pmHigher" />
+								<Value Type="1" Value="500" Text="pmHighest" />
+							</Values>
+						</Parameter>
+						<Parameter Name="Attrib" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+						<Parameter Name="Picture" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+						<Parameter Name="FolderId" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{6F20B0D8-E0CF-47FF-A68B-3E3672DD0CB0}">
+				<Data Description="Assign a calc upper part height to the variable" DescriptionEdited="True" VariableType="4" VariableName="varAmountFieldHeight">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="NewValue" DefVarType="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="Math.floor(Aliases.EditLlise_CalculatorUWP.BrowserWindow.Window(&quot;Internet Explorer_Server&quot;, &quot;&quot;, 1).Page(&quot;ms-appx://21442editllise.calculatoruwp/index.html&quot;).contentDocument.styleSheets.item(1).rules.item(17).style.height.slice(0,-1) * 0.01 * KeywordTests.TestCalculatorNotepad.Variables.varCalcHeight)" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{BFB3C418-1303-46B3-9B24-3624AB5EB529}">
+				<Data Description="Posts an information message to the test log." MessageType="0">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="MessageText" DefVarType="12" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="&quot;Upper calc height = &quot; + KeywordTests.TestCalculatorNotepad.Variables.varAmountFieldHeight" />
+						<Parameter Name="Details" DefVarType="12" VarType="8" ValueType="6" ValueValue="" />
+						<Parameter Name="Priority" DefVarType="12" DefValueType="1" DefValueValue="300" VarType="3" ValueType="1" ValueValue="300">
+							<Values IsEnum="True">
+								<Value Type="1" Value="100" Text="pmLowest" />
+								<Value Type="1" Value="200" Text="pmLower" />
+								<Value Type="1" Value="300" Text="pmNormal" />
+								<Value Type="1" Value="400" Text="pmHigher" />
+								<Value Type="1" Value="500" Text="pmHighest" />
+							</Values>
+						</Parameter>
+						<Parameter Name="Attrib" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+						<Parameter Name="Picture" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+						<Parameter Name="FolderId" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{6F20B0D8-E0CF-47FF-A68B-3E3672DD0CB0}">
+				<Data Description="Assign an upper row button height to the variable" DescriptionEdited="True" VariableType="4" VariableName="varUpperButtonHeight">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="NewValue" DefVarType="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="Math.floor(Aliases.EditLlise_CalculatorUWP.BrowserWindow.Window(&quot;Internet Explorer_Server&quot;, &quot;&quot;, 1).Page(&quot;ms-appx://21442editllise.calculatoruwp/index.html&quot;).contentDocument.styleSheets.item(1).rules.item(18).style.height.slice(0,-1) * 0.01 * KeywordTests.TestCalculatorNotepad.Variables.varCalcHeight)" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{BFB3C418-1303-46B3-9B24-3624AB5EB529}">
+				<Data Description="Posts an information message to the test log." MessageType="0">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="MessageText" DefVarType="12" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="&quot;Upper buttons height = &quot; + KeywordTests.TestCalculatorNotepad.Variables.varUpperButtonHeight" />
+						<Parameter Name="Details" DefVarType="12" VarType="8" ValueType="6" ValueValue="" />
+						<Parameter Name="Priority" DefVarType="12" DefValueType="1" DefValueValue="300" VarType="3" ValueType="1" ValueValue="300">
+							<Values IsEnum="True">
+								<Value Type="1" Value="100" Text="pmLowest" />
+								<Value Type="1" Value="200" Text="pmLower" />
+								<Value Type="1" Value="300" Text="pmNormal" />
+								<Value Type="1" Value="400" Text="pmHigher" />
+								<Value Type="1" Value="500" Text="pmHighest" />
+							</Values>
+						</Parameter>
+						<Parameter Name="Attrib" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+						<Parameter Name="Picture" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+						<Parameter Name="FolderId" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{6F20B0D8-E0CF-47FF-A68B-3E3672DD0CB0}">
+				<Data Description="Assign a main button height value to the variable" DescriptionEdited="True" VariableType="4" VariableName="varMainButtonHeight">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="NewValue" DefVarType="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="Math.floor((KeywordTests.TestCalculatorNotepad.Variables.varCalcHeight - KeywordTests.TestCalculatorNotepad.Variables.varAmountFieldHeight - KeywordTests.TestCalculatorNotepad.Variables.varUpperButtonHeight) *0.25)" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{BFB3C418-1303-46B3-9B24-3624AB5EB529}">
+				<Data Description="Posts an information message to the test log." MessageType="0">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="MessageText" DefVarType="12" ParamType="{83D6F80C-4323-4034-92E3-FD2A65D2E6FC}" VariableType="4" VariableName="varMainButtonHeight" />
+						<Parameter Name="Details" DefVarType="12" VarType="8" ValueType="6" ValueValue="" />
+						<Parameter Name="Priority" DefVarType="12" DefValueType="1" DefValueValue="300" VarType="3" ValueType="1" ValueValue="300">
+							<Values IsEnum="True">
+								<Value Type="1" Value="100" Text="pmLowest" />
+								<Value Type="1" Value="200" Text="pmLower" />
+								<Value Type="1" Value="300" Text="pmNormal" />
+								<Value Type="1" Value="400" Text="pmHigher" />
+								<Value Type="1" Value="500" Text="pmHighest" />
+							</Values>
+						</Parameter>
+						<Parameter Name="Attrib" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+						<Parameter Name="Picture" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+						<Parameter Name="FolderId" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{6F20B0D8-E0CF-47FF-A68B-3E3672DD0CB0}">
+				<Data Description="Assign a calc button width value to the variable" DescriptionEdited="True" VariableType="4" VariableName="varButtonWidth">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="NewValue" DefVarType="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="Math.floor(KeywordTests.TestCalculatorNotepad.Variables.varCalcHeight*0.25)" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{BFB3C418-1303-46B3-9B24-3624AB5EB529}">
+				<Data Description="Posts an information message to the test log." MessageType="0">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="MessageText" DefVarType="12" ParamType="{83D6F80C-4323-4034-92E3-FD2A65D2E6FC}" VariableType="4" VariableName="varButtonWidth" />
+						<Parameter Name="Details" DefVarType="12" VarType="8" ValueType="6" ValueValue="" />
+						<Parameter Name="Priority" DefVarType="12" DefValueType="1" DefValueValue="300" VarType="3" ValueType="1" ValueValue="300">
+							<Values IsEnum="True">
+								<Value Type="1" Value="100" Text="pmLowest" />
+								<Value Type="1" Value="200" Text="pmLower" />
+								<Value Type="1" Value="300" Text="pmNormal" />
+								<Value Type="1" Value="400" Text="pmHigher" />
+								<Value Type="1" Value="500" Text="pmHighest" />
+							</Values>
+						</Parameter>
+						<Parameter Name="Attrib" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+						<Parameter Name="Picture" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+						<Parameter Name="FolderId" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{6F20B0D8-E0CF-47FF-A68B-3E3672DD0CB0}">
+				<Data Description="Assign the number1 value to the variable" DescriptionEdited="True" VariableType="4" VariableName="varNumber1">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="NewValue" DefVarType="0" ParamType="{91E40FC5-34AB-4B37-B86A-789030413699}" Parameter="number1" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{BFB3C418-1303-46B3-9B24-3624AB5EB529}">
+				<Data Description="Posts an information message to the test log." MessageType="0">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="MessageText" DefVarType="12" ParamType="{83D6F80C-4323-4034-92E3-FD2A65D2E6FC}" VariableType="4" VariableName="varNumber1" />
+						<Parameter Name="Details" DefVarType="12" VarType="8" ValueType="6" ValueValue="" />
+						<Parameter Name="Priority" DefVarType="12" DefValueType="1" DefValueValue="300" VarType="3" ValueType="1" ValueValue="300">
+							<Values IsEnum="True">
+								<Value Type="1" Value="100" Text="pmLowest" />
+								<Value Type="1" Value="200" Text="pmLower" />
+								<Value Type="1" Value="300" Text="pmNormal" />
+								<Value Type="1" Value="400" Text="pmHigher" />
+								<Value Type="1" Value="500" Text="pmHighest" />
+							</Values>
+						</Parameter>
+						<Parameter Name="Attrib" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+						<Parameter Name="Picture" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+						<Parameter Name="FolderId" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{6F20B0D8-E0CF-47FF-A68B-3E3672DD0CB0}">
+				<Data VariableType="4" VariableName="varNumber2">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="NewValue" DefVarType="0" ParamType="{91E40FC5-34AB-4B37-B86A-789030413699}" Parameter="number2" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{BFB3C418-1303-46B3-9B24-3624AB5EB529}">
+				<Data Description="Posts an information message to the test log." MessageType="0">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="MessageText" DefVarType="12" ParamType="{83D6F80C-4323-4034-92E3-FD2A65D2E6FC}" VariableType="4" VariableName="varNumber2" />
+						<Parameter Name="Details" DefVarType="12" VarType="8" ValueType="6" ValueValue="" />
+						<Parameter Name="Priority" DefVarType="12" DefValueType="1" DefValueValue="300" VarType="3" ValueType="1" ValueValue="300">
+							<Values IsEnum="True">
+								<Value Type="1" Value="100" Text="pmLowest" />
+								<Value Type="1" Value="200" Text="pmLower" />
+								<Value Type="1" Value="300" Text="pmNormal" />
+								<Value Type="1" Value="400" Text="pmHigher" />
+								<Value Type="1" Value="500" Text="pmHighest" />
+							</Values>
+						</Parameter>
+						<Parameter Name="Attrib" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+						<Parameter Name="Picture" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+						<Parameter Name="FolderId" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{6F20B0D8-E0CF-47FF-A68B-3E3672DD0CB0}">
+				<Data VariableType="4" VariableName="varProduct">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="NewValue" DefVarType="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="KeywordTests.TestCalculatorNotepad.Variables.varNumber1 * KeywordTests.TestCalculatorNotepad.Variables.varNumber2" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{6A1B4CEE-4FB8-46E2-BFBD-403C84342301}">
+				<Data Description="Delays the test execution for the specified time period.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ms" DefVarType="3" VarType="3" ValueType="1" ValueValue="100" />
+						<Parameter Name="Str" DefVarType="8" DefValueType="6" DefValueValue="" ParamType="{83D6F80C-4323-4034-92E3-FD2A65D2E6FC}" VariableType="0" VariableName="" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{5156EB31-13EC-472C-B819-9EC8D4E9E546}">
+				<Data Description="Simulates a user action over the area that contains the recognized text." Action="Bounds" InvokeKind="1" TBlockIntType="1">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Selected Text" DefVarType="0" VarType="8" ValueType="6" ValueValue="9" />
+						<Parameter Name="Selected Preferences" DefVarType="0" DefValueType="1" DefValueValue="-10" VarType="3" ValueType="1" ValueValue="-15">
+							<Values>
+								<Value Type="1" Value="-10" Text="spNone" />
+								<Value Type="1" Value="-11" Text="spNearestToCenter" />
+								<Value Type="1" Value="-12" Text="spLeftMost" />
+								<Value Type="1" Value="-13" Text="spRightMost" />
+								<Value Type="1" Value="-14" Text="spTopMost" />
+								<Value Type="1" Value="-15" Text="spBottomMost" />
+								<Value Type="1" Value="-16" Text="spLargest" />
+								<Value Type="1" Value="-17" Text="spSmallest" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{E42909F2-4390-4F5D-94B8-FABF59BABFCE}" Code="Aliases.EditLlise_CalculatorUWP.BrowserWindow;" />
+				</Data>
+			</Operation>
+			<Operation Type="{60B8EBE8-9B0C-4A7B-A452-229144AEA05B}">
+				<Data Description="Cycle through all digits" DescriptionEdited="True">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Loop Variable" DefVarType="0" ParamType="{83D6F80C-4323-4034-92E3-FD2A65D2E6FC}" VariableType="4" VariableName="varLoop">
+							<Restrictions>
+								<PermittedType Key="{83D6F80C-4323-4034-92E3-FD2A65D2E6FC}" />
+							</Restrictions>
+						</Parameter>
+						<Parameter Name="Start Value" DefVarType="0" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="End Value" DefVarType="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="(KeywordTests.TestCalculatorNotepad.Variables.varNumber1).length - 1" />
+						<Parameter Name="Step" DefVarType="0" VarType="3" ValueType="1" ValueValue="1" />
+					</Parameters>
+				</Data>
+				<Children>
+					<Operation Type="{BFB3C418-1303-46B3-9B24-3624AB5EB529}">
+						<Data Description="Posts an information message to the test log." MessageType="0">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="MessageText" DefVarType="12" ParamType="{83D6F80C-4323-4034-92E3-FD2A65D2E6FC}" VariableType="4" VariableName="varLoop" />
+								<Parameter Name="Details" DefVarType="12" VarType="8" ValueType="6" ValueValue="" />
+								<Parameter Name="Priority" DefVarType="12" DefValueType="1" DefValueValue="300" VarType="3" ValueType="1" ValueValue="300">
+									<Values IsEnum="True">
+										<Value Type="1" Value="100" Text="pmLowest" />
+										<Value Type="1" Value="200" Text="pmLower" />
+										<Value Type="1" Value="300" Text="pmNormal" />
+										<Value Type="1" Value="400" Text="pmHigher" />
+										<Value Type="1" Value="500" Text="pmHighest" />
+									</Values>
+								</Parameter>
+								<Parameter Name="Attrib" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+								<Parameter Name="Picture" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+								<Parameter Name="FolderId" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+							</Parameters>
+						</Data>
+					</Operation>
+					<Operation Type="{6F20B0D8-E0CF-47FF-A68B-3E3672DD0CB0}">
+						<Data VariableType="4" VariableName="varDigit">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="NewValue" DefVarType="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="(KeywordTests.TestCalculatorNotepad.Variables.varNumber1).charAt(KeywordTests.TestCalculatorNotepad.Variables.varLoop)" />
+							</Parameters>
+						</Data>
+					</Operation>
+					<Operation Type="{BFB3C418-1303-46B3-9B24-3624AB5EB529}">
+						<Data Description="Posts an information message to the test log." MessageType="0">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="MessageText" DefVarType="12" ParamType="{83D6F80C-4323-4034-92E3-FD2A65D2E6FC}" VariableType="4" VariableName="varDigit" />
+								<Parameter Name="Details" DefVarType="12" VarType="8" ValueType="6" ValueValue="" />
+								<Parameter Name="Priority" DefVarType="12" DefValueType="1" DefValueValue="300" VarType="3" ValueType="1" ValueValue="300">
+									<Values IsEnum="True">
+										<Value Type="1" Value="100" Text="pmLowest" />
+										<Value Type="1" Value="200" Text="pmLower" />
+										<Value Type="1" Value="300" Text="pmNormal" />
+										<Value Type="1" Value="400" Text="pmHigher" />
+										<Value Type="1" Value="500" Text="pmHighest" />
+									</Values>
+								</Parameter>
+								<Parameter Name="Attrib" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+								<Parameter Name="Picture" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+								<Parameter Name="FolderId" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+							</Parameters>
+						</Data>
+					</Operation>
+					<Operation Type="{5156EB31-13EC-472C-B819-9EC8D4E9E546}">
+						<Data Description="Simulates a user action over the area that contains the recognized text." Action="Click" TBlockIntType="1">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="Selected Text" DefVarType="0" ParamType="{83D6F80C-4323-4034-92E3-FD2A65D2E6FC}" VariableType="4" VariableName="varDigit" />
+								<Parameter Name="Selected Preferences" DefVarType="0" DefValueType="1" DefValueValue="-10" VarType="3" ValueType="1" ValueValue="-15">
+									<Values>
+										<Value Type="1" Value="-10" Text="spNone" />
+										<Value Type="1" Value="-11" Text="spNearestToCenter" />
+										<Value Type="1" Value="-12" Text="spLeftMost" />
+										<Value Type="1" Value="-13" Text="spRightMost" />
+										<Value Type="1" Value="-14" Text="spTopMost" />
+										<Value Type="1" Value="-15" Text="spBottomMost" />
+										<Value Type="1" Value="-16" Text="spLargest" />
+										<Value Type="1" Value="-17" Text="spSmallest" />
+									</Values>
+								</Parameter>
+								<Parameter Name="x" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+								<Parameter Name="y" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+								<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+									<Values IsEnum="True">
+										<Value Type="1" Value="0" Text="skNoShift" />
+										<Value Type="1" Value="8192" Text="skShift" />
+										<Value Type="1" Value="32768" Text="skAlt" />
+										<Value Type="1" Value="16384" Text="skCtrl" />
+									</Values>
+								</Parameter>
+							</Parameters>
+							<ObjectSyntax LangId="{E42909F2-4390-4F5D-94B8-FABF59BABFCE}" Code="Aliases.EditLlise_CalculatorUWP.BrowserWindow;" />
+						</Data>
+					</Operation>
+					<Operation Type="{6A1B4CEE-4FB8-46E2-BFBD-403C84342301}">
+						<Data Description="Delays the test execution for the specified time period.">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="ms" DefVarType="3" VarType="3" ValueType="1" ValueValue="100" />
+								<Parameter Name="Str" DefVarType="8" DefValueType="6" DefValueValue="" ParamType="{83D6F80C-4323-4034-92E3-FD2A65D2E6FC}" VariableType="4" VariableName="varDigit" />
+							</Parameters>
+						</Data>
+					</Operation>
+				</Children>
+			</Operation>
+			<Operation Type="{5156EB31-13EC-472C-B819-9EC8D4E9E546}">
+				<Data Description="Simulates a user action over the area that contains the recognized text." Action="Click" TBlockIntType="1">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Selected Text" DefVarType="0" VarType="8" ValueType="6" ValueValue="X" />
+						<Parameter Name="Selected Preferences" DefVarType="0" DefValueType="1" DefValueValue="-10" VarType="3" ValueType="1" ValueValue="-15">
+							<Values>
+								<Value Type="1" Value="-10" Text="spNone" />
+								<Value Type="1" Value="-11" Text="spNearestToCenter" />
+								<Value Type="1" Value="-12" Text="spLeftMost" />
+								<Value Type="1" Value="-13" Text="spRightMost" />
+								<Value Type="1" Value="-14" Text="spTopMost" />
+								<Value Type="1" Value="-15" Text="spBottomMost" />
+								<Value Type="1" Value="-16" Text="spLargest" />
+								<Value Type="1" Value="-17" Text="spSmallest" />
+							</Values>
+						</Parameter>
+						<Parameter Name="x" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="y" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{E42909F2-4390-4F5D-94B8-FABF59BABFCE}" Code="Aliases.EditLlise_CalculatorUWP.BrowserWindow;" />
+				</Data>
+			</Operation>
+			<Operation Type="{60B8EBE8-9B0C-4A7B-A452-229144AEA05B}">
+				<Data>
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Loop Variable" DefVarType="0" ParamType="{83D6F80C-4323-4034-92E3-FD2A65D2E6FC}" VariableType="4" VariableName="varLoop">
+							<Restrictions>
+								<PermittedType Key="{83D6F80C-4323-4034-92E3-FD2A65D2E6FC}" />
+							</Restrictions>
+						</Parameter>
+						<Parameter Name="Start Value" DefVarType="0" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="End Value" DefVarType="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="(KeywordTests.TestCalculatorNotepad.Variables.varNumber2).length - 1" />
+						<Parameter Name="Step" DefVarType="0" VarType="3" ValueType="1" ValueValue="1" />
+					</Parameters>
+				</Data>
+				<Children>
+					<Operation Type="{6F20B0D8-E0CF-47FF-A68B-3E3672DD0CB0}">
+						<Data VariableType="4" VariableName="varDigit">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="NewValue" DefVarType="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="(KeywordTests.TestCalculatorNotepad.Variables.varNumber2).charAt(KeywordTests.TestCalculatorNotepad.Variables.varLoop)" />
+							</Parameters>
+						</Data>
+					</Operation>
+					<Operation Type="{5156EB31-13EC-472C-B819-9EC8D4E9E546}">
+						<Data Description="Simulates a user action over the area that contains the recognized text." Action="Click" TBlockIntType="1">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="Selected Text" DefVarType="0" ParamType="{83D6F80C-4323-4034-92E3-FD2A65D2E6FC}" VariableType="4" VariableName="varDigit" />
+								<Parameter Name="Selected Preferences" DefVarType="0" DefValueType="1" DefValueValue="-10" VarType="3" ValueType="1" ValueValue="-15">
+									<Values>
+										<Value Type="1" Value="-10" Text="spNone" />
+										<Value Type="1" Value="-11" Text="spNearestToCenter" />
+										<Value Type="1" Value="-12" Text="spLeftMost" />
+										<Value Type="1" Value="-13" Text="spRightMost" />
+										<Value Type="1" Value="-14" Text="spTopMost" />
+										<Value Type="1" Value="-15" Text="spBottomMost" />
+										<Value Type="1" Value="-16" Text="spLargest" />
+										<Value Type="1" Value="-17" Text="spSmallest" />
+									</Values>
+								</Parameter>
+								<Parameter Name="x" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+								<Parameter Name="y" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+								<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+									<Values IsEnum="True">
+										<Value Type="1" Value="0" Text="skNoShift" />
+										<Value Type="1" Value="8192" Text="skShift" />
+										<Value Type="1" Value="32768" Text="skAlt" />
+										<Value Type="1" Value="16384" Text="skCtrl" />
+									</Values>
+								</Parameter>
+							</Parameters>
+							<ObjectSyntax LangId="{E42909F2-4390-4F5D-94B8-FABF59BABFCE}" Code="Aliases.EditLlise_CalculatorUWP.BrowserWindow;" />
+						</Data>
+					</Operation>
+				</Children>
+			</Operation>
+			<Operation Type="{5156EB31-13EC-472C-B819-9EC8D4E9E546}">
+				<Data Description="Simulates a user action over the area that contains the recognized text." Action="Click" TBlockIntType="1">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Selected Text" DefVarType="0" VarType="8" ValueType="6" ValueValue="=" />
+						<Parameter Name="Selected Preferences" DefVarType="0" DefValueType="1" DefValueValue="-10" VarType="3" ValueType="1" ValueValue="-15">
+							<Values>
+								<Value Type="1" Value="-10" Text="spNone" />
+								<Value Type="1" Value="-11" Text="spNearestToCenter" />
+								<Value Type="1" Value="-12" Text="spLeftMost" />
+								<Value Type="1" Value="-13" Text="spRightMost" />
+								<Value Type="1" Value="-14" Text="spTopMost" />
+								<Value Type="1" Value="-15" Text="spBottomMost" />
+								<Value Type="1" Value="-16" Text="spLargest" />
+								<Value Type="1" Value="-17" Text="spSmallest" />
+							</Values>
+						</Parameter>
+						<Parameter Name="x" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="y" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{E42909F2-4390-4F5D-94B8-FABF59BABFCE}" Code="Aliases.EditLlise_CalculatorUWP.BrowserWindow;" />
+				</Data>
+			</Operation>
+			<Operation Type="{CDD7459C-6C02-4A5C-B1A2-5BD844F1B61B}">
+				<Data Description="Checks whether the property value matches the specified condition. ">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Property" DefVarType="12" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="Aliases.EditLlise_CalculatorUWP.BrowserWindow.Window(&quot;Internet Explorer_Server&quot;, &quot;&quot;, 1).Page(&quot;ms-appx://21442editllise.calculatoruwp/index.html&quot;).contentDocument.getElementById(&apos;resultBlock&apos;).textContent" />
+						<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="Value" DefVarType="12" ParamType="{83D6F80C-4323-4034-92E3-FD2A65D2E6FC}" VariableType="4" VariableName="varProduct" />
+						<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="MessageType" DefVarType="3" DefValueType="1" DefValueValue="2" VarType="3" ValueType="1" ValueValue="3" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{19D49D7D-E1B4-4986-9252-E04D3D66ABDE}">
+				<Data Description="Simulates a single click with the left mouse button on the UI element specified by this image within the search area." Action="Click" ImageSet="ImageSet1" Image="ButtonEquals">
+					<CommonData Disabled="True" />
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="X" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="Y" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+						<Parameter Name="SearchArea" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.EditLlise_CalculatorUWP.BrowserWindow" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="" />
+				</Data>
+			</Operation>
+			<Operation Type="{19D49D7D-E1B4-4986-9252-E04D3D66ABDE}">
+				<Data Description="Simulates a single click with the left mouse button on the UI element specified by this image within the search area." Action="Click" ImageSet="ImageSet1" Image="ButtonCopyClipboard">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="X" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="Y" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+						<Parameter Name="SearchArea" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.EditLlise_CalculatorUWP.BrowserWindow" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Restores the &apos;%n&apos; window." Action="Restore">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ApplicationFrameHost.wndApplicationFrameWindow;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Maximizes the &apos;%n&apos; window." Action="Maximize">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.notepad.wndNotepad;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters %p1 in the &apos;%n&apos; object." Action="Keys">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="^v" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.notepad.wndNotepad.Edit;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Restores the &apos;%n&apos; window." Action="Restore">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.notepad.wndNotepad;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters %p1 in the &apos;%n&apos; object." Action="Keys">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="^s" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.notepad.wndNotepad.Edit;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters the text %p1 in the &apos;%n&apos; text editor." Action="SetText" InvokeKind="-1">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="Date.now()" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.notepad.dlg_.DUIViewWndClassName.Item.FloatNotifySink.ComboBox;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.notepad.dlg_.btn_;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Closes the &apos;%n&apos; window." Action="Close">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="WaitTimeout" DefVarType="3" DefValueType="1" DefValueValue="2000" VarType="3" ValueType="1" ValueValue="2000" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.notepad.wndNotepad;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Closes the &apos;%n&apos; window." Action="Close">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="WaitTimeout" DefVarType="3" DefValueType="1" DefValueValue="2000" VarType="3" ValueType="1" ValueValue="2000" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ApplicationFrameHost.wndApplicationFrameWindow;" />
+				</Data>
+			</Operation>
+		</Children>
+	</TestData>
+	<Variables Version="4" Key="{0A7434E5-BA7E-4491-A0D7-2C394C2A818C}">
+		<Items>
+			<Variable Name="varProduct" Type="String" Local="False" Descr="Product of two input parameters">
+				<DefValue />
+			</Variable>
+			<Variable Name="varLoop" Type="Integer" Local="False" Descr="Loop variable">
+				<DefValue IntValue="0" />
+			</Variable>
+			<Variable Name="varDigit" Type="String" Local="False" Descr="Current digit for a calc button to press">
+				<DefValue />
+			</Variable>
+			<Variable Name="varNumber1" Type="String" Local="False" Descr="First number from test parameters to be split into digits and fed into calc buttons">
+				<DefValue />
+			</Variable>
+			<Variable Name="varCSS" Type="String" Local="False" Descr="CSS for calc">
+				<DefValue />
+			</Variable>
+			<Variable Name="varUpperButtonHeight" Type="Integer" Local="False" Descr="Absolute height for an upper row of buttons">
+				<DefValue IntValue="0" />
+			</Variable>
+			<Variable Name="varMainButtonHeight" Type="Integer" Local="False" Descr="Absolute height for main buttons">
+				<DefValue IntValue="0" />
+			</Variable>
+			<Variable Name="varAmountFieldHeight" Type="Integer" Local="False" Descr="Absolute height for an upper part of the calc">
+				<DefValue IntValue="0" />
+			</Variable>
+			<Variable Name="varCalcHeight" Type="Integer" Local="False" Descr="Absolute height for a calc">
+				<DefValue IntValue="0" />
+			</Variable>
+			<Variable Name="varCalcWidth" Type="Integer" Local="False" Descr="Absolute width for a calc">
+				<DefValue IntValue="0" />
+			</Variable>
+			<Variable Name="varButtonWidth" Type="Integer" Local="False" Descr="Absolute width for any button">
+				<DefValue IntValue="0" />
+			</Variable>
+			<Variable Name="varNumber2" Type="String" Local="False" Descr="Second number from test parameters to be split into digits and fed into calc buttons">
+				<DefValue />
+			</Variable>
+		</Items>
+	</Variables>
+	<Parameters Key="{94819CD1-5F0B-422A-A3AF-F7356B038107}">
+		<Parameter0 Name="number1" VarType="8" IsOptional="False" DefValueType="6" DefValueValue="123" Description="First of two numbers to multiply" />
+		<Parameter1 Name="number2" VarType="8" IsOptional="False" DefValueType="6" DefValueValue="456" Description="Second of two numbers to multiply" />
+	</Parameters>
+</Root>

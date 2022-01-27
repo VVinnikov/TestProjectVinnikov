@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{3A4C9494-AFB1-4CF3-A85E-E5A53F474EF1}">
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="notepad" Key="{C3A19B93-61E0-4AB9-B03E-EF8794D82B9A}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="notepad" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="wndNotepad" Key="{EE0808A0-B3A5-4680-B38D-555390AB3C29}">
+								<Image FileName="-1636032438" Left="0" Top="0" Right="1943" Bottom="755" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="Notepad" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="Безымянный – Блокнот" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="Edit" Key="{655F3302-7833-49B6-8D34-187D323599B9}">
+										<Image FileName="-1636032438" Left="11" Top="75" Right="1932" Bottom="708" />
+										<TypeInfo Item0="{15D23BD9-488D-4D94-A4AC-32F62FA19073}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Edit" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="dlg_" Key="{40673522-22EF-4002-BAC7-B9E571D20C8A}">
+								<Image FileName="-1165624781" Left="0" Top="0" Right="960" Bottom="720" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="#32770" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="Сохранение" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="DUIViewWndClassName" Key="{3926691B-4153-413B-8F7B-E96D31EC2FF6}">
+										<Image FileName="-1165624781" Left="11" Top="104" Right="949" Bottom="618" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="DUIViewWndClassName" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="Item" Key="{06A8AE25-60C4-471E-8614-F87C0AC1DA87}">
+												<Image FileName="-1165624781" Left="11" Top="104" Right="949" Bottom="618" />
+												<Properties>
+													<Property Name="FrameworkId">
+														<Value Value="DirectUI" />
+													</Property>
+													<Property Name="ClassName">
+														<Value Value="HWNDView" />
+													</Property>
+													<Property Name="LocalizedControlType">
+														<Value Value="панель" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="Панель_проводника" />
+													</Property>
+													<Property Name="ObjectGroupIndex">
+														<Value Value="1" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="FloatNotifySink" Key="{7E5F8721-D7C7-414E-AE93-E1269DB774C0}">
+														<Image FileName="19764380" Left="199" Top="538" Right="941" Bottom="571" />
+														<Properties>
+															<Property Name="WndClass">
+																<Value Value="FloatNotifySink" />
+															</Property>
+															<Property Name="WndCaption">
+																<Value Value="" />
+															</Property>
+															<Property Name="Index">
+																<Value Value="1" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="ComboBox" Key="{6AAA78DC-D4DC-4B7D-A67B-0E7E9F7771D3}">
+																<Image FileName="19764380" Left="199" Top="538" Right="941" Bottom="571" />
+																<Properties>
+																	<Property Name="WndClass">
+																		<Value Value="ComboBox" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="Edit" Key="{406A9F7B-6011-4D68-A1D4-AB658694EA92}">
+																		<Image FileName="19764380" Left="202" Top="541" Right="912" Bottom="568" />
+																		<TypeInfo Item0="{15D23BD9-488D-4D94-A4AC-32F62FA19073}" />
+																		<Properties>
+																			<Property Name="WndClass">
+																				<Value Value="Edit" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+													<Child Name="CtrlNotifySink" Key="{4FDC0C66-ADC6-49D9-8F99-7C3B892A495D}">
+														<Image FileName="1016868275" Left="251" Top="153" Right="949" Bottom="520" />
+														<Properties>
+															<Property Name="WndClass">
+																<Value Value="CtrlNotifySink" />
+															</Property>
+															<Property Name="WndCaption">
+																<Value Value="" />
+															</Property>
+															<Property Name="Index">
+																<Value Value="2" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="ShellView" Key="{FFF4C200-5E70-41AA-9252-23FE139F6A65}" ExtendedFind="True">
+																<Image FileName="1016868275" Left="251" Top="153" Right="949" Bottom="520" />
+																<Properties>
+																	<Property Name="WndClass">
+																		<Value Value="SHELLDLL_DefView" />
+																	</Property>
+																	<Property Name="WndCaption">
+																		<Value Value="ShellView" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="Item" Key="{80A23AFA-25FA-4FA8-A56B-F46BEAFDD7E3}">
+																		<Image FileName="1016868275" Left="251" Top="153" Right="949" Bottom="520" />
+																		<Properties>
+																			<Property Name="FrameworkId">
+																				<Value Value="DirectUI" />
+																			</Property>
+																			<Property Name="ClassName">
+																				<Value Value="UIItemsView" />
+																			</Property>
+																			<Property Name="LocalizedControlType">
+																				<Value Value="список" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="Просмотр_элементов" />
+																			</Property>
+																			<Property Name="ObjectGroupIndex">
+																				<Value Value="1" Type="0" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="CtrlNotifySink" Key="{26F08A99-9C5E-4B83-98F6-E45B9867EC31}">
+																				<Image FileName="1016868275" Left="923" Top="153" Right="949" Bottom="520" />
+																				<Properties>
+																					<Property Name="WndClass">
+																						<Value Value="CtrlNotifySink" />
+																					</Property>
+																					<Property Name="WndCaption">
+																						<Value Value="" />
+																					</Property>
+																					<Property Name="Index">
+																						<Value Value="2" Type="0" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="ScrollBar" Key="{4F88827F-3234-4AB5-9C01-921DEA464062}">
+																						<Image FileName="1016868275" Left="923" Top="153" Right="949" Bottom="520" />
+																						<TypeInfo Item0="{2195C789-98B2-4097-B9EC-28F92E022695}" />
+																						<Properties>
+																							<Property Name="WndClass">
+																								<Value Value="ScrollBar" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																				</Children>
+																			</Child>
+																			<Child Name="output" Key="{82716185-A064-4521-B6A3-354D91E44A52}">
+																				<Image FileName="1772051125" Left="434" Top="92" Right="592" Bottom="269" />
+																				<TypeInfo Item0="{91658BFB-70FB-4E95-84CB-BE44BFF8CDBB}" />
+																				<Properties>
+																					<Property Name="FrameworkId">
+																						<Value Value="DirectUI" />
+																					</Property>
+																					<Property Name="ClassName">
+																						<Value Value="UIItem" />
+																					</Property>
+																					<Property Name="LocalizedControlType">
+																						<Value Value="элемент списка" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value Value="output" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="btn_" Key="{AC8EFA9D-719F-46D4-A23A-0EE36440759D}">
+										<Image FileName="-2071467261" Left="627" Top="652" Right="773" Bottom="691" />
+										<TypeInfo Item0="{3B899C92-59B8-4128-9423-6308A28EDF12}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Button" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="Со&amp;хранить" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="dlg_2" Key="{2492C8E2-FDA3-4F10-A90F-8724340F2A43}">
+								<Image FileName="-1291720344" Left="0" Top="0" Right="549" Bottom="217" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="#32770" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="Подтвердить сохранение в виде" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="Item" Key="{A4F9B7CD-AA49-496D-BAD8-900D4C7F5584}">
+										<Image FileName="-1291720344" Left="11" Top="45" Right="538" Bottom="206" />
+										<Properties>
+											<Property Name="FrameworkId">
+												<Value Value="DirectUI" />
+											</Property>
+											<Property Name="ClassName">
+												<Value Value="TaskDialog" />
+											</Property>
+											<Property Name="LocalizedControlType">
+												<Value Value="панель" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="Подтвердить_сохранение_в_виде" />
+											</Property>
+											<Property Name="ObjectGroupIndex">
+												<Value Value="1" Type="0" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="CtrlNotifySink" Key="{F33234B4-29FA-4B69-8C92-23B4F7A0862E}">
+												<Image FileName="-1291720344" Left="304" Top="155" Right="409" Bottom="192" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value Value="CtrlNotifySink" />
+													</Property>
+													<Property Name="WndCaption">
+														<Value Value="" />
+													</Property>
+													<Property Name="Index">
+														<Value Value="7" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="btn_" Key="{D9912FD8-A863-43CC-B616-FAAFF1C3C630}">
+														<Image FileName="-1291720344" Left="304" Top="155" Right="409" Bottom="192" />
+														<TypeInfo Item0="{3B899C92-59B8-4128-9423-6308A28EDF12}" />
+														<Properties>
+															<Property Name="WndClass">
+																<Value Value="Button" />
+															</Property>
+															<Property Name="WndCaption">
+																<Value Value="&amp;Да" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="ApplicationFrameHost" Key="{2E7604C7-A3BC-45DF-8815-4343534B5B89}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="ApplicationFrameHost" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="wndApplicationFrameWindow" Key="{DCCA3115-369F-408C-BFE4-10A03D3D50EE}">
+								<Image FileName="-1670375393" Left="0" Top="0" Right="1222" Bottom="960" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="ApplicationFrameWindow" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="Calculator UWP" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="ApplicationFrameTitleBarWindow" Key="{F30067AC-2C94-4F7E-938B-E48897D2CCA8}">
+										<Image FileName="1353461841" Left="11" Top="1" Right="1211" Bottom="49" />
+										<TypeInfo Item0="{0AE719FD-F356-4B5D-9A65-C084EBA87E54}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="ApplicationFrameTitleBarWindow" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="" />
+											</Property>
+											<Property Name="Index">
+												<Value Value="1" Type="0" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="EditLlise_CalculatorUWP" Key="{9136C698-DBA1-4158-B149-CC843080B91A}">
+						<TypeInfo Item0="{70613AB9-5D71-4E10-BECF-7A1CAC14D67B}" />
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="21442EditLlise.CalculatorUWP" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="BrowserWindow" Key="{23BD5C65-68AE-48DD-AD46-709A4296DB8C}">
+								<Image FileName="1133272838" Left="11" Top="49" Right="1211" Bottom="949" />
+								<TypeInfo Item0="{029FC65D-4246-41E6-9337-C15E15885FB0}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="BrowserWindow" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="0" />
+									</Property>
+								</Properties>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="explorer" Key="{F918F972-10EA-47A3-A8A3-4E4A27751CA6}">
+						<TypeInfo Item0="{0EF9C679-C2F6-4076-8912-516F4230678F}" />
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="explorer" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="wndShell_TrayWnd" Key="{E7D12E9B-3953-4F63-88A6-18F8238757B0}">
+								<Image FileName="602403481" Left="0" Top="0" Right="1920" Bottom="60" />
+								<TypeInfo Item0="{DB838EE7-6696-4187-B180-F47923800A8D}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="Shell_TrayWnd" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="ReBarWindow32" Key="{C7321690-D385-4441-AE29-2F086D9AFD2E}">
+										<Image FileName="602403481" Left="214" Top="0" Right="1534" Bottom="60" />
+										<TypeInfo Item0="{F0B7F0A6-4F5B-4E60-930F-2746019E290D}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="ReBarWindow32" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="MSTaskSwWClass" Key="{09700F55-8689-4F29-9767-075C6630FEB1}">
+												<Image FileName="602403481" Left="216" Top="0" Right="1534" Bottom="60" />
+												<TypeInfo Item0="{F0B7F0A6-4F5B-4E60-930F-2746019E290D}" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value Value="MSTaskSwWClass" />
+													</Property>
+													<Property Name="WndCaption">
+														<Value Value="Работающие приложения" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="MSTaskListWClass" Key="{0403BF86-52AE-41E2-9B10-60FA1A71BA9E}">
+														<Image FileName="602403481" Left="216" Top="0" Right="1534" Bottom="60" />
+														<TypeInfo Item0="{F0B7F0A6-4F5B-4E60-930F-2746019E290D}" />
+														<Properties>
+															<Property Name="WndClass">
+																<Value Value="MSTaskListWClass" />
+															</Property>
+															<Property Name="WndCaption">
+																<Value Value="Работающие приложения" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="notepad" Owner="{C3A19B93-61E0-4AB9-B03E-EF8794D82B9A}">
+			<Child Name="wndNotepad" Owner="{EE0808A0-B3A5-4680-B38D-555390AB3C29}">
+				<Child Name="Edit" Owner="{655F3302-7833-49B6-8D34-187D323599B9}" />
+			</Child>
+			<Child Name="dlg_" Owner="{40673522-22EF-4002-BAC7-B9E571D20C8A}">
+				<Child Name="DUIViewWndClassName" Owner="{3926691B-4153-413B-8F7B-E96D31EC2FF6}">
+					<Child Name="Item" Owner="{06A8AE25-60C4-471E-8614-F87C0AC1DA87}">
+						<Child Name="FloatNotifySink" Owner="{7E5F8721-D7C7-414E-AE93-E1269DB774C0}">
+							<Child Name="ComboBox" Owner="{6AAA78DC-D4DC-4B7D-A67B-0E7E9F7771D3}">
+								<Child Name="Edit" Owner="{406A9F7B-6011-4D68-A1D4-AB658694EA92}" />
+							</Child>
+						</Child>
+						<Child Name="CtrlNotifySink" Owner="{4FDC0C66-ADC6-49D9-8F99-7C3B892A495D}">
+							<Child Name="ShellView" Owner="{FFF4C200-5E70-41AA-9252-23FE139F6A65}">
+								<Child Name="Item" Owner="{80A23AFA-25FA-4FA8-A56B-F46BEAFDD7E3}">
+									<Child Name="CtrlNotifySink" Owner="{26F08A99-9C5E-4B83-98F6-E45B9867EC31}">
+										<Child Name="ScrollBar" Owner="{4F88827F-3234-4AB5-9C01-921DEA464062}" />
+									</Child>
+									<Child Name="output" Owner="{82716185-A064-4521-B6A3-354D91E44A52}" />
+								</Child>
+							</Child>
+						</Child>
+					</Child>
+				</Child>
+				<Child Name="btn_" Owner="{AC8EFA9D-719F-46D4-A23A-0EE36440759D}" />
+			</Child>
+			<Child Name="dlg_2" Owner="{2492C8E2-FDA3-4F10-A90F-8724340F2A43}">
+				<Child Name="Item" Owner="{A4F9B7CD-AA49-496D-BAD8-900D4C7F5584}">
+					<Child Name="CtrlNotifySink" Owner="{F33234B4-29FA-4B69-8C92-23B4F7A0862E}">
+						<Child Name="btn_" Owner="{D9912FD8-A863-43CC-B616-FAAFF1C3C630}" />
+					</Child>
+				</Child>
+			</Child>
+		</Child>
+		<Child Name="ApplicationFrameHost" Owner="{2E7604C7-A3BC-45DF-8815-4343534B5B89}">
+			<Child Name="wndApplicationFrameWindow" Owner="{DCCA3115-369F-408C-BFE4-10A03D3D50EE}">
+				<Child Name="ApplicationFrameTitleBarWindow" Owner="{F30067AC-2C94-4F7E-938B-E48897D2CCA8}" />
+			</Child>
+		</Child>
+		<Child Name="EditLlise_CalculatorUWP" Owner="{9136C698-DBA1-4158-B149-CC843080B91A}">
+			<Child Name="BrowserWindow" Owner="{23BD5C65-68AE-48DD-AD46-709A4296DB8C}" />
+		</Child>
+		<Child Name="explorer" Owner="{F918F972-10EA-47A3-A8A3-4E4A27751CA6}">
+			<Child Name="wndShell_TrayWnd" Owner="{E7D12E9B-3953-4F63-88A6-18F8238757B0}">
+				<Child Name="ReBarWindow32" Owner="{C7321690-D385-4441-AE29-2F086D9AFD2E}">
+					<Child Name="MSTaskSwWClass" Owner="{09700F55-8689-4F29-9767-075C6630FEB1}">
+						<Child Name="MSTaskListWClass" Owner="{0403BF86-52AE-41E2-9B10-60FA1A71BA9E}" />
+					</Child>
+				</Child>
+			</Child>
+		</Child>
+	</LogicalNodes>
+</Root>
